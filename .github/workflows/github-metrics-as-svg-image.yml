@@ -6,8 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  check-bats-version:
+  build:
     runs-on: ubuntu-latest
+    name: generate
+    
     steps:
       - uses: lowlighter/metrics@latest
         env:
