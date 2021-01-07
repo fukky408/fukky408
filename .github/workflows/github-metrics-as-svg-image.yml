@@ -1,2 +1,12 @@
-- name: GitHub metrics as SVG image
-  uses: lowlighter/metrics@latest
+name: GitHub metrics as SVG image
+
+on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
