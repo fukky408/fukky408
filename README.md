@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ My favorite language is JavaScript (TypeScript).　　
+✨ My favorite language is JavaScript (TypeScript).  
 🌱 I’m currently learning Atomic design, DDD, Web Performance Tuning and Clean Architecture.  
 🔭 I’m currently working on Research on Recommend system and System Architecture.
 
