@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✨ My favorite language is JavaScript (TypeScript).  
-🌱 I’m currently learning Atomic Design, DDD, Web Performance Tuning and Clean Architecture.  
+🌱 I’m currently learning Atomic design, DDD, Web Performance Tuning and Clean Architecture.  
 🔭 I’m currently working on Research on Recommend system and System Architecture.
 
 [![](https://raw.githubusercontent.com/ProgRiro/ProgRiro/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
