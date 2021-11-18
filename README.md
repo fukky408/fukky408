@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ProgRiro&color=green)
 
 ✨ My favorite language is TypeScript.  
-🌱 I’m currently learning Atomic design, DDD, Web Performance Tuning and Clean Architecture.  
+🌱 I’m currently learning Rust lang, Atomic design, DDD, Web Performance Tuning and Clean Architecture.  
 🔭 I’m currently working on Research on Recommend system and System Architecture.
 
 <div align="center">
