@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Happy New Year 🎍
 
 ![](https://komarev.com/ghpvc/?username=ProgRiro&color=green)
 
