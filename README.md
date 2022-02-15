@@ -4,7 +4,6 @@
 
 ✨ My favorite language is TypeScript.  
 🌱 I’m currently learning Rust, AWS, DDD, Web Performance Tuning and Architecture.  
-🔭 I’m currently working on Research on Recommend system.
 
 <div align="center">
   
