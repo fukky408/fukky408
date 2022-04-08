@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/github-script</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write workflows scripting the GitHub API in JavaScript</div>
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peter-evans/find-comment</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub action to find an issue or pull request comment</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jwalton/gh-find-current-pr</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Github Action for finding the Pull Request (PR) associated with the current SHA.</div>
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>treosh/lighthouse-ci-action</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audit URLs using Lighthouse and test performance with Lighthouse CI.</div>
