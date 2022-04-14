@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -119,13 +119,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="61.9327731092437" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="61.9327731092437" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="61.9327731092437" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="61.9327731092437" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="61.9327731092437" y="0" width="20.336134453781515" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="82.26890756302521" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="82.26890756302521" y="0" width="137.7310924369748" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="61.41666666666667" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="61.41666666666667" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="61.41666666666667" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="61.41666666666667" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="61.41666666666667" y="0" width="20.166666666666664" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="81.58333333333334" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="81.58333333333334" y="0" width="138.41666666666666" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -139,7 +139,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">149 <small>merged</small></span>
+                                <span class="no-wrap">151 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -173,14 +173,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.3016331467646" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="342.3016331467646" y="0" width="54.730791932960095" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="397.03242507972465" y="0" width="24.61886451411735" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.65128959384197" y="0" width="21.05266847961707" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="442.70395807345903" y="0" width="6.895777287238042" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.5997353606971" y="0" width="6.389129554715006" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.98886491541214" y="0" width="2.981360395464477" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.97022531087663" y="0" width="1.0297746891233892" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.2886340721079" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="342.2886340721079" y="0" width="54.74618223257178" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="397.0348163046797" y="0" width="24.617929600500844" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.6527459051805" y="0" width="21.051868994067522" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="442.70461489924804" y="0" width="6.8955154166680765" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.60013031591615" y="0" width="6.388886924344508" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.98901724026064" y="0" width="2.9812471768216016" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.97026441708226" y="0" width="1.0297355829177297" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/github-script</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write workflows scripting the GitHub API in JavaScript</div>
@@ -271,13 +271,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.17k
+                                        2.18k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        235
+                                        236
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>peter-evans/find-comment</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub action to find an issue or pull request comment</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jwalton/gh-find-current-pr</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Github Action for finding the Pull Request (PR) associated with the current SHA.</div>
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>treosh/lighthouse-ci-action</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audit URLs using Lighthouse and test performance with Lighthouse CI.</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yewstack/yew</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust / Wasm framework for building client web apps</div>
