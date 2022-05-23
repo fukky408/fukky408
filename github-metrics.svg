@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -173,14 +173,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.2341247708965" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="327.2341247708965" y="0" width="72.12705401245535" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="399.3611787833519" y="0" width="23.577241245452747" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="422.9384200288046" y="0" width="20.185365554669808" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="443.12378558347444" y="0" width="6.933750907539684" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="450.0575364910141" y="0" width="6.107891448442523" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.1654279394566" y="0" width="2.850126219579369" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.015554159036" y="0" width="0.9844458409639913" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.1045026771871" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="327.1045026771871" y="0" width="72.28069600620324" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="399.38519868339034" y="0" width="23.567901964666348" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="422.9531006480567" y="0" width="20.177369844114505" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.1304704921712" y="0" width="6.9310043501306" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="450.0614748423018" y="0" width="6.10547202571804" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.1669468680198" y="0" width="2.8489972440234834" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.0159441120433" y="0" width="0.9840558879566801" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/heroicons</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of free MIT-licensed high-quality SVG icons for UI development.</div>
@@ -277,7 +277,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        944
+                                        945
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tjallingt/react-youtube</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">react.js powered YouTube player component</div>
@@ -337,7 +337,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        202
+                                        203
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>developit/unfetch</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐕 Bare minimum 500b fetch polyfill.</div>
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>a11yj/accrefs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Webアクセシビリティの参考資料まとめサイト</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyrilwanner/next-optimized-images</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌅 next-optimized-images automatically optimizes images used in next.js projects (jpeg, png, svg, webp and gif).</div>
