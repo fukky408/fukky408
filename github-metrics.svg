@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ladifire-opensource/stylex</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write CSS-in-JS with atomic support. Like Facebook's Stylex!</div>
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Uniswap/web3-react</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleChrome/chrome-launcher</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Launch Google Chrome with ease from node.</div>
