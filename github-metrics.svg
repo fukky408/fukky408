@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -173,14 +173,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.67346766524497" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="333.67346766524497" y="0" width="71.35902848561285" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="405.03249615085787" y="0" width="21.323509444728632" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="426.3560055955865" y="0" width="18.367614131294776" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.7236197268813" y="0" width="6.270176386978837" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="450.9937961138601" y="0" width="5.538608423193173" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.5324045370533" y="0" width="2.5773631559915593" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.1097676930449" y="0" width="0.8902323069552257" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.66271283490295" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="333.66271283490295" y="0" width="71.37155500665101" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="405.03426784155397" y="0" width="21.322822153863168" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="426.3570899954171" y="0" width="18.367022113670025" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.7241121090871" y="0" width="6.269974289150298" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="450.9940863982374" y="0" width="5.5384299049719345" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.5325163032094" y="0" width="2.5772800834486143" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.109796386658" y="0" width="0.8902036133419957" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ladifire-opensource/stylex</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write CSS-in-JS with atomic support. Like Facebook's Stylex!</div>
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Uniswap/web3-react</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps</div>
@@ -330,7 +330,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        1.01k
+                                        1.02k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postcss/postcss</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transforming styles with JS plugins</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleChrome/chrome-launcher</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Launch Google Chrome with ease from node.</div>
