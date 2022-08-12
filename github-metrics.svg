@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isaacs/rimraf</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A `rm -rf` util for nodejs</div>
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webpack-contrib/compression-webpack-plugin</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prepare compressed versions of assets to serve them with Content-Encoding</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tricot-inc/frontend-style-guide</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">トリコ株式会社のJavaScript / TypeScriptにおけるコード規約</div>
