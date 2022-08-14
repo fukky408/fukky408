@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ProgRiro&color=green)
 
 ✨ My favorite language is TypeScript.  
-🌱 I’m currently learning rust, web performance, accessibility and system architecture.  
+🌱 I’m currently learning rust, web performance, a11y and system architecture.  
 
 <div align="center">
   
