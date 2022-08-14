@@ -38,9 +38,9 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 50 repositories
+                            Contributed to 48 repositories
                         </div>
                     </section>
                 </div>
@@ -173,14 +173,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.5521574780084" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="353.5521574780084" y="0" width="45.022816960123485" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="398.57497443813185" y="0" width="25.70470479211089" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.2796792302427" y="0" width="19.474567701628917" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="443.75424693187165" y="0" width="6.643723892389464" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="450.3979708242611" y="0" width="5.927850746857228" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.32582157111835" y="0" width="2.7309102841803723" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.0567318552987" y="0" width="0.9432681447012994" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.5457093848863" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="353.5457093848863" y="0" width="45.03038532440341" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="398.57609470928975" y="0" width="25.704235989059722" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="424.2803306983494" y="0" width="19.474212523974376" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.75454322232383" y="0" width="6.643602723986362" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="450.3981459463102" y="0" width="5.927742634566522" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.3258885808767" y="0" width="2.7308604777700656" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.0567490586468" y="0" width="0.943250941353201" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x-tag/core</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Heart of X-Tag</div>
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skatejs/skatejs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Effortless custom elements powered by modern view libraries.</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isaacs/rimraf</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A `rm -rf` util for nodejs</div>
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webpack-contrib/compression-webpack-plugin</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prepare compressed versions of assets to serve them with Content-Encoding</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tricot-inc/frontend-style-guide</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">トリコ株式会社のJavaScript / TypeScriptにおけるコード規約</div>
@@ -477,7 +477,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        50
+                                        51
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
