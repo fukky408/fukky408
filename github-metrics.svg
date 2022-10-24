@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -173,14 +173,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.3175362401117" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="353.3175362401117" y="0" width="45.431481061347405" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="398.74901730145905" y="0" width="25.62794708687206" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.37696438833115" y="0" width="19.423113939838885" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="443.80007832817" y="0" width="6.620664363510637" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="450.42074269168063" y="0" width="5.917831490015544" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.3385741816962" y="0" width="2.721431638531705" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.0600058202279" y="0" width="0.9399941797720623" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.2798538516587" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="353.2798538516587" y="0" width="45.426635655892674" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="398.70648950755134" y="0" width="25.66294510715508" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="424.3694346147064" y="0" width="19.421042405738888" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.7904770204453" y="0" width="6.619958249545794" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="450.41043526999107" y="0" width="5.928529413890337" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.3389646838814" y="0" width="2.7211413895810224" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.0601060734624" y="0" width="0.9398939265375281" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ptelad/react-native-iphone-x-helper</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library to help you design your react-native app for notched iPhones</div>
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expo/fyi</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.</div>
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>insidegui/VirtualBuddy</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtualize macOS 12 and later on Apple Silicon</div>
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>E869120/kyopro-tessoku</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">拙著『競技プログラミングの鉄則』（2022/9/16 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shopify/flash-list</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A better list for React Native</div>
