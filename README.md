@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ProgRiro&color=green)
 
-✨ My favorite language is TypeScript.  
+✨ My favorite language is TypeScript and C.  
 🌱 I’m currently learning unit testing, web performance, web accessibility and system architecture.  
 
 <div align="left">
