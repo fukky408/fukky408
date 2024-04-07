@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ProgRiro&color=green)
 
 ✨ My favorite language is TypeScript.
-🌱 I’m currently learning testing, web architecture and design patterns.  
+🌱 I’m currently learning web architecture and design patterns.  
 
 <div align="left">
   
