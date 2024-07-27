@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alstr/todo-to-issue-action</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Action that converts TODO comments to GitHub issues on push.</div>
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antonbabenko/pre-commit-terraform</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pre-commit git hooks to take care of Terraform configurations 🇺🇦</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FaridSafi/react-native-google-places-autocomplete</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Customizable Google Places autocomplete component for iOS and Android React-Native apps</div>
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kolking/react-native-rating</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⭐️ ❤️ 😀 An interactive rating component for React Native that can display ratings using stars, hearts, emojis, or custom symbols.</div>
