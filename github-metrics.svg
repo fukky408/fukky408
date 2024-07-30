@@ -250,7 +250,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alstr/todo-to-issue-action</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Action that converts TODO comments to GitHub issues on push.</div>
@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antonbabenko/pre-commit-terraform</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pre-commit git hooks to take care of Terraform configurations 🇺🇦</div>
