@@ -15,10 +15,40 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/fukky408/fukky408/master/profile-summary-card-output/moonlight/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/fukky408/fukky408/master/profile-summary-card-output/moonlight/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/fukky408/fukky408/master/profile-summary-card-output/moonlight/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/fukky408/fukky408/master/profile-summary-card-output/moonlight/4-productive-time.svg)
 ```
 
     
